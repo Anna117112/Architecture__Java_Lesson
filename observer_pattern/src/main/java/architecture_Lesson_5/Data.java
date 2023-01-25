@@ -12,6 +12,7 @@ public class Data {
     private double dayTemperature; // температура днем
     private double nightTemperature; // температура ночью
 
+    
 
     public Data(double dayTemperature, double nightTemperature ){
         this.dayTemperature = dayTemperature;
